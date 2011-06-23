@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FeatureViewerActivity!</string>
+    <string name="app_name">FeatureViewer</string>
+
+    <string name="unknown">unknown feature</string>
+    <string name="gl_es_version">The OpenGL ES version required by the application.</string>
+
+    <string name="audio_low_latency">The application uses a low-latency audio pipeline on the device and is sensitive to delays or lag in sound input or output.</string>
+    <string name="bluetooth">The application uses Bluetooth radio features in the device.</string>
+    <string name="camera">The application uses the device\'s camera. If the device supports multiple cameras, the application uses the camera that facing away from the screen.</string>
+    <string name="camera_autofocus">Subfeature. The application uses the device camera\'s autofocus capability.</string>
+    <string name="camera_flash">Subfeature. The application uses the device camera\'s flash.</string>
+    <string name="camera_front">Subfeature. The application uses a front-facing camera on the device.</string>
+    <string name="location">The application uses one or more features on the device for determining location, such as GPS location, network location, or cell location.</string>
+    <string name="location_network">Subfeature. The application uses coarse location coordinates obtained from a network-based geolocation system supported on the device.</string>
+    <string name="location_gps">Subfeature. The application uses precise location coordinates obtained from a Global Positioning System receiver on the device. </string>
+    <string name="microphone">The application uses a microphone on the device. </string>
+    <string name="nfc">The application uses NFC radio features in the device.</string>
+    <string name="sensor_accelerometer">The application uses motion readings from an accelerometer on the device.</string>
+    <string name="sensor_barometer">The application uses the device\'s barometer.</string>
+    <string name="sensor_compass">The application uses directional readings from a magnetometer (compass) on the device.</string>
+    <string name="sensor_gyroscope">The application uses the device\'s gyroscope sensor.</string>
+    <string name="sensor_light">The application uses the device\'s light sensor.</string>
+    <string name="sensor_proximity">The application uses the device\'s proximity sensor.</string>
+    <string name="telephony">The application uses telephony features on the device, such as telephony radio with data communication services.</string>
+    <string name="telephony_cdma">Subfeature. The application uses CDMA telephony radio features on the device. </string>
+    <string name="telephony_gsm">Subfeature. The application uses GSM telephony radio features on the device.</string>
+    <string name="touchscreen">The application uses touchscreen capabilities on the device.</string>
+    <string name="touchscreen_multitouch">Subfeature. The application uses basic two-point multitouch capabilities on the device screen.</string>
+    <string name="touchscreen_multitouch_distinct">Subfeature. The application uses advanced multipoint multitouch capabilities on the device screen, such as for tracking two or more points fully independently.</string>
+    <string name="touchscreen_multitouch_jazzhand">Subfeature. The application uses advanced multipoint multitouch capabilities on the device screen, for tracking up to five points fully independently.</string>
+    <string name="wifi">The application uses 802.11 networking (wifi) features on the device.</string>
+    <string name="live_wallpaper">The application uses or provides Live Wallpapers.</string>
+    <string name="sip">The application uses SIP service on the device. </string>
+    <string name="sip_voip">Subfeature. The application uses SIP-based VOIP service on the device. </string>
+</resources>
